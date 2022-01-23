@@ -1,4 +1,4 @@
-package com.bootcamp;
+package com.bootcamp.exercicio1;
 
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
